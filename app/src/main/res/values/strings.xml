@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">shop</string>
+
+<!--  SCREEN NAMES  -->
+
+    <string name="home_screen">home</string>
+    <string name="history_screen">history</string>
+    <string name="settings_screen">settings</string>
+
+</resources>
